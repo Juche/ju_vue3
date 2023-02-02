@@ -13,4 +13,7 @@ pnpm i esbuild minimist typescript -D -w
 # 3. 初始化 ts 配置
 # Creates a tsconfig.json with the recommended settings in the working directory.
 pnpm tsc --init
+# 4. 创建响应式模块 reactivity
+# 4. 编写相应的编译打包脚本
+# 4. 编写对应的测试样例
 ```
