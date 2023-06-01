@@ -70,5 +70,27 @@ app2.mount('#container-2');
 ## 关键词
 
 - [ ] 响应式
-- [ ] 组合式函数 / hooks / mixins
+  - ref
+  - reactive
+  - computed
+  - readonly
+  - watch
+  - watchEffect
+  - watchPostEffect
+  - watchSyncEffect
+- [ ] 组合式函数: 利用 Vue 的组合式 API 来封装和复用有状态逻辑的函数
+  - 相关内容 hooks / mixins
+- [ ] 自定义指令: 只有当所需功能只能通过直接的 DOM 操作来实现时，才应该使用自定义指令
+- [ ] Plugins: 插件是能为 Vue 添加全局功能的工具代码
+  - 插件发挥作用的常见场景主要包括以下几种：
+    - 通过 app.component() 和 app.directive() 注册一到多个全局组件或自定义指令。
+    - 通过 app.provide() 使一个资源可被注入进整个应用。
+    - 向 app.config.globalProperties 中添加一些全局实例属性或方法
+    - 一个可能上述三种都包含了的功能库 (例如 vue-router)。
+- [ ] Teleport
 - [ ] SSR
+
+## 资源
+
+- [Vue 文档](https://cn.vuejs.org)
+- [VueUse 文档](https://vueuse.org)
