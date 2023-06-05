@@ -88,7 +88,22 @@ app2.mount('#container-2');
     - 向 app.config.globalProperties 中添加一些全局实例属性或方法
     - 一个可能上述三种都包含了的功能库 (例如 vue-router)。
 - [ ] Teleport
-- [ ] SSR
+- [ ] SSR (Server-Side Render)服务端渲染
+  - Nuxt
+  - Quasar
+- [ ] SSG (Static-Site Generation)静态站点生成
+  - Vitepress
+  - Nuxt
+
+## 进阶
+
+### 深入响应式系统
+
+- Immer 不可变数据
+- XState ​ 状态机
+- RxJS 异步事件流
+
+-
 
 ## 资源
 
