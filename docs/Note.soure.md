@@ -3,7 +3,7 @@
 ## 学习资源
 
 - [vuejs/core](https://github.com/vuejs/core)
-  [提交记录]https://github.com/vuejs/core/commits/ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca?after=ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca+1224&branch=ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca&qualified_name=ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca
+  [提交记录](https://github.com/vuejs/core/commits/ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca?after=ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca+1224&branch=ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca&qualified_name=ff4c5c1bb65f9ccc98336ccdb6aafc96af244cca)
 
 - [petite-vue](https://github.com/vuejs/petite-vue)
 
